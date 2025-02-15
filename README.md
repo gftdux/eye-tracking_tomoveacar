@@ -3,4 +3,4 @@
 
 <br>
 
-shape_predictor_68_face_landmarks.dat is needed to operate
+shape_predictor_68_face_landmarks.dat is needed for operation
