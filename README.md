@@ -1,5 +1,5 @@
 # eye-tracking_to.move.a.car
-2024 탐구논문
+2024 전남과학고등학교 탐구논문
 
 <br>
 
